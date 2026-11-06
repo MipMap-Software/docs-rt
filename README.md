@@ -2,7 +2,7 @@
 
 MipMap RT documentation site built with VitePress, with multi-language support and local search.
 
-[View Online Documentation](https://docs.mipmap3d.com/rt)
+[View Online Documentation](https://docs.mipmap3d.com/RT)
 
 ## Install and Run
 

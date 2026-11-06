@@ -2,7 +2,7 @@
 
 基于 VitePress 的 MipMap RT 文档站点，支持多语言和本地搜索。
 
-[查看在线文档](https://docs.mipmap3d.com/rt)
+[查看在线文档](https://docs.mipmap3d.com/RT)
 
 ## 安装和运行
 
